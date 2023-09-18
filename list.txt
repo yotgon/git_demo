@@ -5,3 +5,9 @@ grocery list
 - bananas
 
 ...
+
+to do list
+
+- java
+- git
+- new things from github
