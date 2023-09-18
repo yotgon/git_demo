@@ -1,0 +1,7 @@
+grocery list
+
+- apples
+- cereal
+- bananas
+
+...
